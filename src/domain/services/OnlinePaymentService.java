@@ -1,4 +1,4 @@
-package mode.services;
+package domain.services;
 
 import domain.entities.Contract;
 
